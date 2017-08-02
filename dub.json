@@ -1,0 +1,12 @@
+{
+	"name": "vulkan_gen",
+	"authors": [
+		"rikki"
+	],
+	"dependencies": {
+		"std-experimental-xml": "~>0.1.2"
+	},
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, rikki",
+	"license": "Boost"
+}
